@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PfClaKr)](https://github.com/anuraghazra/github-readme-stats)-->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PfClaKr&hide=javascript,html&theme=nord&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PfClaKr&hide=javascript,html,roff,makefile&theme=nord&layout=compact"/>
 
 ##### Working on ⚡
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
