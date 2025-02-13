@@ -11,7 +11,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PfClaKr&hide=javascript,html,roff,makefile,css&theme=nord&layout=compact"/>
 
 ##### Working on ⚡
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=Assembly&logoColor=white)
 <!-- ##### Interesting on 🤔 -->
 
 
