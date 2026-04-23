@@ -3,7 +3,7 @@
   ### Yugeon CHUN / 전유건
 
   #### Student of 42 Paris 👋
-  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm4c6n3in2556301l6e8a42d8t/stats?cursusId=21&coalitionId=48" alt="ychun's 42 stats" /></a>
+<!--  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm4c6n3in2556301l6e8a42d8t/stats?cursusId=21&coalitionId=48" alt="ychun's 42 stats" /></a> -->
 
   ---
 </div>
